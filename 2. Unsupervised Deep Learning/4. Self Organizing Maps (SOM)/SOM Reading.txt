@@ -1,0 +1,8 @@
+Tuevo Kohonen, 1990, The Self-Organizing Map
+http://sci2s.ugr.es/keel/pdf/algorithm/articulo/1990-Kohonen-PIEEE.pdf
+
+Mat Buckland, 2004?, Kohonen's Self Organizing Feature Maps
+http://www.ai-junkie.com/ann/som/som1.html
+
+Nadieh Bremer, 2003, SOM – Creating hexagonal heatmaps with D3.js
+https://www.visualcinnamon.com/2013/07/self-organizing-maps-creating-hexagonal.html
