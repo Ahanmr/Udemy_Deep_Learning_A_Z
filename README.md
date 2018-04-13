@@ -1,6 +1,6 @@
 # Udemy_Deep_Learning_A_Z
 
-Contains all the code written as part of the online course **'Deep Learning A-Z™: Hands-On Artificial Neural Networks'**. 
+Contains all the code files written while taking the **'Deep Learning A-Z™: Hands-On Artificial Neural Networks'** online course.
 
 Created by Kirill Eremenko and Hadelin de Ponteves and SuperDataScience team on [Udemy](https://www.udemy.com/deeplearning/).
 
@@ -15,3 +15,6 @@ Created by Kirill Eremenko and Hadelin de Ponteves and SuperDataScience team on 
 * Self Organizing (SOM)
 * Boltzmann Machines (BM)
 * AutoEncoders (AE)
+
+### Course Certificate
+* https://www.udemy.com/certificate/UC-HBDZOATW/
